@@ -2,32 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <url>
-    <loc>https://manjuba--drops.com/</loc>
+    <loc>https://insuleaf-official.vercel.app/</loc>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
-  </url>
-
-  <url>
-    <loc>https://manjuba--drops.com/about</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://manjuba--drops.com/privacy-policy</loc>
-    <changefreq>yearly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://manjuba--drops.com/terms</loc>
-    <changefreq>yearly</changefreq>
-    <priority>0.5</priority>
-  </url>
-
-  <url>
-    <loc>https://manjuba--drops.com/affiliate-disclosure</loc>
-    <changefreq>yearly</changefreq>
-    <priority>0.4</priority>
   </url>
 
 </urlset>
