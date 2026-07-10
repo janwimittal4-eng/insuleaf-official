@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://manjuba--drops.com/sitemap.xml
+Sitemap: https://insuleaf-official.vercel.app/sitemap.xml
